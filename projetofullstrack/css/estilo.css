@@ -1,0 +1,107 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+  
+  }
+
+  .index{
+    text-align: center;
+    
+  }
+  
+  .img_menu{
+    width: 100px;
+  }
+  
+  #rodape{
+    text-align: center;
+    }
+  
+  #formas-pagamento{
+    width: 100%;
+    color: red;
+    }
+  
+  .menu {
+    background: #813022; 
+  }
+  
+  .menu a  {
+    color:white;
+    margin-right: 150px;
+    margin-left: 30px;
+    vertical-align: middle;
+    text-align: left;
+    text-decoration: none;
+  }
+  
+  #recode {
+    font-size: 10px;
+  }
+  
+  .categorias{
+    font-weight: bold;
+    position: static;
+    float: left;
+    width: 20%;
+    height:900px;
+    margin-left:0%;
+    margin: 0%;
+  }
+
+
+  .lojas {
+    width: 100%;
+    padding: 32px;
+  }
+
+  .loja {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    padding: 32px;
+  
+    border-radius: 8px;
+  }
+
+  .contatos {
+    width: 100%;
+    padding: 32px;
+    text-align: center;
+  }
+
+  .contato {
+    width: 44%;
+    display: inline-block;
+  }
+  
+  .cate{
+    width:100% ;
+    border:0;
+  }
+  
+  .produtos{
+    width: 50%;
+    height:30vh;
+  }
+  
+  .box_produtos{
+    float: center;
+    width: 19%;
+    height:3vh ;
+  }
+  
+  div{
+    width: 300px;
+    height:10px;
+    border: 0px solid;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .preco{
+    color: red;
+  }
+  
+  .descricao{
+    font-weight: bold;
+  }
